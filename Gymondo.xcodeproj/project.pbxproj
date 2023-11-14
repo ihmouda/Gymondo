@@ -226,6 +226,9 @@
 		1F809D102B017839009100EC /* GeneralViews */ = {
 			isa = PBXGroup;
 			children = (
+				1F809D132B0203C3009100EC /* ErrorView.swift */,
+				1F7727E72B037E6400C66B71 /* HTMLTextView.swift */,
+				1F809D072B00FA4E009100EC /* ActivityIndicator.swift */,
 				1FF37A372AFE42DA00116CC8 /* AsyncImageView.swift */,
 				1F809D0E2B0173E8009100EC /* TitleTextView.swift */,
 				1F809D112B017CF6009100EC /* ValueTextView.swift */,
@@ -276,10 +279,7 @@
 		1FF37A4C2B0030B200116CC8 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
-				1F809D132B0203C3009100EC /* ErrorView.swift */,
 				1FF37A4D2B0030C600116CC8 /* LoadingState.swift */,
-				1F7727E72B037E6400C66B71 /* HTMLTextView.swift */,
-				1F809D072B00FA4E009100EC /* ActivityIndicator.swift */,
 				1F809D0C2B01646A009100EC /* RoundedRectangleBorderModifier.swift */,
 			);
 			path = Utils;
