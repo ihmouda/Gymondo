@@ -1,0 +1,1293 @@
+{
+    "count": 1273,
+    "next": "https://wger.de/api/v2/exerciseinfo/?limit=20&offset=40",
+    "previous": "https://wger.de/api/v2/exerciseinfo/?limit=20",
+    "results": [
+        {
+            "id": 1314,
+            "name": "Addominali",
+            "aliases": [],
+            "uuid": "d09f38a4-2c88-46ef-a847-cb66289d250b",
+            "exercise_base_id": 167,
+            "description": "<ol><li>Sdraiati a pancia in su sul pavimento con le ginocchia piegate.</li><li>Solleva il busto verso il bacino, a 30° / 40° dal suolo. Le mani possono essere dietro o accanto al collo o incrociate sul petto.</li><li>Ripeti</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 10,
+                "name": "Abs"
+            },
+            "muscles": [
+                {
+                    "id": 6,
+                    "name": "Rectus abdominis",
+                    "name_en": "Abs",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-6.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-6.svg"
+                }
+            ],
+            "muscles_secondary": [
+                {
+                    "id": 3,
+                    "name": "Serratus anterior",
+                    "name_en": "",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-3.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-3.svg"
+                }
+            ],
+            "equipment": [
+                {
+                    "id": 4,
+                    "name": "Gym mat"
+                }
+            ],
+            "language": {
+                "id": 13,
+                "short_name": "it",
+                "full_name": "Italian"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "albanobattistella (imported from Feeel)",
+            "images": [
+                {
+                    "id": 3,
+                    "uuid": "ef0b00e2-3323-4e7f-88fe-d71ef34b3384",
+                    "exercise_base": 167,
+                    "exercise_base_uuid": "b186f1f8-4957-44dc-bf30-d0b00064ce6f",
+                    "image": "https://wger.de/media/exercise-images/91/Crunches-1.png",
+                    "is_main": true,
+                    "style": "1",
+                    "license": 1,
+                    "license_title": "",
+                    "license_object_url": "",
+                    "license_author": "",
+                    "license_author_url": "",
+                    "license_derivative_source_url": "",
+                    "author_history": []
+                },
+                {
+                    "id": 4,
+                    "uuid": "0fdc1eea-07d1-4d01-8d89-6c39673dcbed",
+                    "exercise_base": 167,
+                    "exercise_base_uuid": "b186f1f8-4957-44dc-bf30-d0b00064ce6f",
+                    "image": "https://wger.de/media/exercise-images/91/Crunches-2.png",
+                    "is_main": false,
+                    "style": "1",
+                    "license": 1,
+                    "license_title": "",
+                    "license_object_url": "",
+                    "license_author": "Everkinetic",
+                    "license_author_url": "",
+                    "license_derivative_source_url": "",
+                    "author_history": []
+                }
+            ],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1314,
+                1243,
+                1186,
+                2060
+            ],
+            "author_history": [
+                "mondstern (imported from Feeel)",
+                "albanobattistella (imported from Feeel)",
+                "Marco Galli (imported from Feeel)",
+                "J. Lavoie (imported from Feeel)",
+                "Gianluca Vespignani (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1963,
+            "name": "Addominali alla sbarra",
+            "aliases": [],
+            "uuid": "a14d2464-6792-42e4-92db-59c46646517a",
+            "exercise_base_id": 283,
+            "description": "Appesi alla barra o alle cinghie, sollevare le gambe con le ginocchia estese o flesse",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 10,
+                "name": "Abs"
+            },
+            "muscles": [
+                {
+                    "id": 6,
+                    "name": "Rectus abdominis",
+                    "name_en": "Abs",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-6.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-6.svg"
+                }
+            ],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 6,
+                    "name": "Pull-up bar"
+                }
+            ],
+            "language": {
+                "id": 13,
+                "short_name": "it",
+                "full_name": "Italian"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "clafal",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1963,
+                1185,
+                1344
+            ],
+            "author_history": [
+                "clafal"
+            ]
+        },
+        {
+            "id": 1292,
+            "name": "Addominali alla sbarra",
+            "aliases": [],
+            "uuid": "ae7a64f9-a419-4c64-ba39-8f981297520b",
+            "exercise_base_id": 978,
+            "description": "sollevamento gambe 90° alla sbarra è un esercizio molto intenso che coinvolge tutta la muscolatura addominale.",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 10,
+                "name": "Abs"
+            },
+            "muscles": [
+                {
+                    "id": 6,
+                    "name": "Rectus abdominis",
+                    "name_en": "Abs",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-6.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-6.svg"
+                }
+            ],
+            "muscles_secondary": [
+                {
+                    "id": 14,
+                    "name": "Obliquus externus abdominis",
+                    "name_en": "",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-14.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-14.svg"
+                }
+            ],
+            "equipment": [
+                {
+                    "id": 6,
+                    "name": "Pull-up bar"
+                }
+            ],
+            "language": {
+                "id": 13,
+                "short_name": "it",
+                "full_name": "Italian"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "clafal",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": [
+                "clafal"
+            ]
+        },
+        {
+            "id": 1294,
+            "name": "Addominali alla sbarra a gambe distese",
+            "aliases": [],
+            "uuid": "1f930161-8ea1-4370-baf4-7c070e83de2f",
+            "exercise_base_id": 979,
+            "description": "Con presa salda a due mani alla sbarra, alza le gambe distese, fino a raggiungere un angolo di 90° con il busto",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 10,
+                "name": "Abs"
+            },
+            "muscles": [
+                {
+                    "id": 6,
+                    "name": "Rectus abdominis",
+                    "name_en": "Abs",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-6.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-6.svg"
+                }
+            ],
+            "muscles_secondary": [
+                {
+                    "id": 14,
+                    "name": "Obliquus externus abdominis",
+                    "name_en": "",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-14.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-14.svg"
+                },
+                {
+                    "id": 10,
+                    "name": "Quadriceps femoris",
+                    "name_en": "Quads",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-10.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-10.svg"
+                }
+            ],
+            "equipment": [
+                {
+                    "id": 6,
+                    "name": "Pull-up bar"
+                }
+            ],
+            "language": {
+                "id": 13,
+                "short_name": "it",
+                "full_name": "Italian"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "clafal",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": [
+                "clafal"
+            ]
+        },
+        {
+            "id": 2157,
+            "name": "Adduktorenmaschine",
+            "aliases": [],
+            "uuid": "61ced0a5-2faa-4f5f-b5e6-d4d5dc805e58",
+            "exercise_base_id": 1199,
+            "description": "Hinsetzen, Beine in die Auflage legen/gegen die Polster drücken, Beine zusammendrücken bis die Auflagen aneinander stoßen",
+            "created": "2023-10-21T12:52:38.038202+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [],
+            "muscles_secondary": [],
+            "equipment": [],
+            "language": {
+                "id": 2,
+                "short_name": "en",
+                "full_name": "English"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": null,
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": []
+        },
+        {
+            "id": 1506,
+            "name": "Adım atma",
+            "aliases": [],
+            "uuid": "4ef74871-44bb-43b3-acfb-8c221ad06bd2",
+            "exercise_base_id": 981,
+            "description": "<ol><li>Sandalyeye dönük şekilde durun</li><li>Sandalyeye çıkın</li><li>Sandalyeden inin</li><li>Tekrarlayın</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 8,
+                    "name": "Bench"
+                }
+            ],
+            "language": {
+                "id": 16,
+                "short_name": "tr",
+                "full_name": "Türkçe"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "mondstern (imported from Feeel)",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": [
+                "ToldYouThat (imported from Feeel)",
+                "Oğuz Ersen (imported from Feeel)",
+                "mondstern (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1548,
+            "name": "Affondi",
+            "aliases": [],
+            "uuid": "076715aa-c841-4406-91e0-1e84b1c964da",
+            "exercise_base_id": 984,
+            "description": "<ol><li>Stai in piedi a schiena dritta</li><li>Fai un grande passo avanti con la gamba sinistra</li><li>Abbassa il bacino fino a toccare quasi il pavimento con il ginocchio destro</li><li>Tendi il bacino in avanti</li><li>Ritorna in posizione eretta facendo un passo indietro</li><li>Ripeti, alternando le gambe ogni volta</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 13,
+                "short_name": "it",
+                "full_name": "Italian"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "albanobattistella (imported from Feeel)",
+            "images": [
+                {
+                    "id": 364,
+                    "uuid": "5c7ffe68-e7b2-47f3-a22a-f9cc28640432",
+                    "exercise_base": 984,
+                    "exercise_base_uuid": "3284fd27-5402-4821-9c32-29066d4e2667",
+                    "image": "https://wger.de/media/exercise-images/984/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
+                    "is_main": true,
+                    "style": "4",
+                    "license": 2,
+                    "license_title": "",
+                    "license_object_url": "",
+                    "license_author": "Franpol",
+                    "license_author_url": "",
+                    "license_derivative_source_url": "",
+                    "author_history": [
+                        "Franpol"
+                    ]
+                }
+            ],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1548,
+                1756
+            ],
+            "author_history": [
+                "mondstern (imported from Feeel)",
+                "albanobattistella (imported from Feeel)",
+                "Marco Galli (imported from Feeel)",
+                "J. Lavoie (imported from Feeel)",
+                "Gianluca Vespignani (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 2064,
+            "name": "Affondi indietro alternati",
+            "aliases": [],
+            "uuid": "71e71bcb-541d-49ac-98ce-0b390309d649",
+            "exercise_base_id": 1102,
+            "description": "Si allenano maggiormente i muscoli posteriori dei glutei, femorali, soleo e gastrocnemio",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [
+                {
+                    "id": 8,
+                    "name": "Gluteus maximus",
+                    "name_en": "Glutes",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-8.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-8.svg"
+                },
+                {
+                    "id": 10,
+                    "name": "Quadriceps femoris",
+                    "name_en": "Quads",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-10.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-10.svg"
+                }
+            ],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 13,
+                "short_name": "it",
+                "full_name": "Italian"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "clafal",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": [
+                "clafal"
+            ]
+        },
+        {
+            "id": 1756,
+            "name": "Affondi inversi",
+            "aliases": [],
+            "uuid": "d1aef377-ddf7-4d34-bc34-a27f9fb13e3b",
+            "exercise_base_id": 999,
+            "description": "<p>Posizione di partenza:</p><p>Stare dritti, piedi alla larghezza delle anche.</p><p>Passi:</p><ol><li>Fare un passo indietro con una gamba in modo che possa piegarsi comodamente a un angolo di 90 gradi.</li><li>Piegare lentamente entrambe le ginocchia per formare un angolo di 90 gradi.</li><li>Tornare alla posizione di partenza.</li><li>Ripetere, alternando le gambe.</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 13,
+                "short_name": "it",
+                "full_name": "Italian"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "albanobattistella (imported from Feeel)",
+            "images": [
+                {
+                    "id": 335,
+                    "uuid": "d0931eb3-8db0-4049-bb08-aa4036072056",
+                    "exercise_base": 999,
+                    "exercise_base_uuid": "616f9026-1a1d-4ed8-b068-cfbb81b6a000",
+                    "image": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
+                    "is_main": true,
+                    "style": "4",
+                    "license": 2,
+                    "license_title": "",
+                    "license_object_url": "",
+                    "license_author": "philip",
+                    "license_author_url": "",
+                    "license_derivative_source_url": "",
+                    "author_history": [
+                        "philip"
+                    ]
+                },
+                {
+                    "id": 336,
+                    "uuid": "8548b2d2-004d-48b4-95fd-b1b25f4e53d0",
+                    "exercise_base": 999,
+                    "exercise_base_uuid": "616f9026-1a1d-4ed8-b068-cfbb81b6a000",
+                    "image": "https://wger.de/media/exercise-images/999/8548b2d2-004d-48b4-95fd-b1b25f4e53d0.jfif",
+                    "is_main": false,
+                    "style": "4",
+                    "license": 2,
+                    "license_title": "",
+                    "license_object_url": "",
+                    "license_author": "philip",
+                    "license_author_url": "",
+                    "license_derivative_source_url": "",
+                    "author_history": [
+                        "philip"
+                    ]
+                }
+            ],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1548,
+                1756
+            ],
+            "author_history": [
+                "mondstern (imported from Feeel)",
+                "albanobattistella (imported from Feeel)",
+                "Marco Galli (imported from Feeel)",
+                "J. Lavoie (imported from Feeel)",
+                "Gianluca Vespignani (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1450,
+            "name": "Agachamento de impulso",
+            "aliases": [],
+            "uuid": "620fef1e-19c5-4bfe-bc8d-9dac6764c386",
+            "exercise_base_id": 616,
+            "description": "<p>Posição inicial:</p><p>Comece na posição de prancha alta:costas, braços e pernas retos e as mãos afastadas alinhadas aos ombros.</p><p>Passos:</p><ol><li>Pule jogando seus pés para frente entre os braços, mantendo as costas reta.</li><li>Mantendo suas mãos no chão, retorne suas pernas para a posição de prancha altas.</li><li>Repita.</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [
+                {
+                    "id": 8,
+                    "name": "Gluteus maximus",
+                    "name_en": "Glutes",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-8.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-8.svg"
+                },
+                {
+                    "id": 10,
+                    "name": "Quadriceps femoris",
+                    "name_en": "Quads",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-10.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-10.svg"
+                },
+                {
+                    "id": 6,
+                    "name": "Rectus abdominis",
+                    "name_en": "Abs",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-6.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-6.svg"
+                },
+                {
+                    "id": 15,
+                    "name": "Soleus",
+                    "name_en": "",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-15.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-15.svg"
+                }
+            ],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 7,
+                "short_name": "pt",
+                "full_name": "Português"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "gbpu (imported from Feeel)",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1944,
+                1371,
+                1440,
+                1450,
+                1461,
+                1475
+            ],
+            "author_history": [
+                "flexagoon (imported from Feeel)",
+                "mondstern (imported from Feeel)",
+                "Vinicius Rodrigues (imported from Feeel)",
+                "Eduardo Celino (imported from Feeel)",
+                "Rodolfo Candido (imported from Feeel)",
+                "gbpu (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1475,
+            "name": "Agachamento parede",
+            "aliases": [],
+            "uuid": "94a65337-4125-4d1b-a01e-969f7322509a",
+            "exercise_base_id": 718,
+            "description": "<ol><li>Encoste na parede, de frente com os pés firmes no chão, alinhados na largura dos ombros e afastados da parede cerca de 60 centímetros</li><li>Deslize pela parede, mantendo as costas pressionada, até que as pernas fiquem em ângulo reto, paralelas ao chão. Os joelhos devem estar diretamente acima dos tornozelos.Dor no quadríceps é normal. Pare se sentir dor nos joelhos ou na rótula do joelho</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [
+                {
+                    "id": 11,
+                    "name": "Biceps femoris",
+                    "name_en": "Hamstrings",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-11.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-11.svg"
+                },
+                {
+                    "id": 10,
+                    "name": "Quadriceps femoris",
+                    "name_en": "Quads",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-10.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-10.svg"
+                }
+            ],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 7,
+                "short_name": "pt",
+                "full_name": "Português"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "gbpu (imported from Feeel)",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1944,
+                1371,
+                1440,
+                1450,
+                1461,
+                1475
+            ],
+            "author_history": [
+                "flexagoon (imported from Feeel)",
+                "mondstern (imported from Feeel)",
+                "Vinicius Rodrigues (imported from Feeel)",
+                "Eduardo Celino (imported from Feeel)",
+                "Rodolfo Candido (imported from Feeel)",
+                "gbpu (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1461,
+            "name": "Agachamentos",
+            "aliases": [],
+            "uuid": "d73305a8-a094-47c6-b1a3-32011f77c708",
+            "exercise_base_id": 615,
+            "description": "<ol><li>Fique com os pés alinhados com os ombros</li><li>Mova o quadril para trás e dobre os joelhos e o quadril para abaixar o troco</li><li>Repita</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [
+                {
+                    "id": 10,
+                    "name": "Quadriceps femoris",
+                    "name_en": "Quads",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-10.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-10.svg"
+                }
+            ],
+            "muscles_secondary": [
+                {
+                    "id": 8,
+                    "name": "Gluteus maximus",
+                    "name_en": "Glutes",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-8.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-8.svg"
+                }
+            ],
+            "equipment": [
+                {
+                    "id": 1,
+                    "name": "Barbell"
+                }
+            ],
+            "language": {
+                "id": 7,
+                "short_name": "pt",
+                "full_name": "Português"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "gbpu (imported from Feeel)",
+            "images": [
+                {
+                    "id": 151,
+                    "uuid": "a067edbd-c5e9-42be-8ce3-238c0a4760f6",
+                    "exercise_base": 615,
+                    "exercise_base_uuid": "a2f5b6ef-b780-49c0-8d96-fdaff23e27ce",
+                    "image": "https://wger.de/media/exercise-images/111/Wide-stance-squat-2.gif",
+                    "is_main": true,
+                    "style": "1",
+                    "license": 1,
+                    "license_title": "",
+                    "license_object_url": "",
+                    "license_author": "Everkinetic",
+                    "license_author_url": "",
+                    "license_derivative_source_url": "",
+                    "author_history": []
+                },
+                {
+                    "id": 152,
+                    "uuid": "dd63c466-ea7e-47f4-b1b2-8a50b4656dfc",
+                    "exercise_base": 615,
+                    "exercise_base_uuid": "a2f5b6ef-b780-49c0-8d96-fdaff23e27ce",
+                    "image": "https://wger.de/media/exercise-images/111/Wide-stance-squat-1.gif",
+                    "is_main": false,
+                    "style": "1",
+                    "license": 1,
+                    "license_title": "",
+                    "license_object_url": "",
+                    "license_author": "Everkinetic",
+                    "license_author_url": "",
+                    "license_derivative_source_url": "",
+                    "author_history": []
+                }
+            ],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1944,
+                1371,
+                1440,
+                1450,
+                1461,
+                1475
+            ],
+            "author_history": [
+                "flexagoon (imported from Feeel)",
+                "mondstern (imported from Feeel)",
+                "Vinicius Rodrigues (imported from Feeel)",
+                "Eduardo Celino (imported from Feeel)",
+                "Rodolfo Candido (imported from Feeel)",
+                "gbpu (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1440,
+            "name": "Agachamentos de sumô",
+            "aliases": [],
+            "uuid": "c9e144c9-c0b8-40db-b603-5e924b13dfdf",
+            "exercise_base_id": 632,
+            "description": "<p>Posição inicial:</p><p>Fique em pé com as pernas separadas e os dedos dos pés virados para fora.</p><p>Passos:</p><ol><li>Agache lentamente dobrando os joelhos. Jogue os braços para frente. Mantenha a cabeça, o peito e os quadris em linha reta. Aperte seus glúteos.</li><li>Levante de volta para a posição inicial.</li><li>Repita este exercício em um movimento pulsante.</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [
+                {
+                    "id": 8,
+                    "name": "Gluteus maximus",
+                    "name_en": "Glutes",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-8.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-8.svg"
+                },
+                {
+                    "id": 10,
+                    "name": "Quadriceps femoris",
+                    "name_en": "Quads",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-10.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-10.svg"
+                }
+            ],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 7,
+                "short_name": "pt",
+                "full_name": "Português"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "gbpu (imported from Feeel)",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1944,
+                1371,
+                1440,
+                1450,
+                1461,
+                1475
+            ],
+            "author_history": [
+                "flexagoon (imported from Feeel)",
+                "mondstern (imported from Feeel)",
+                "Vinicius Rodrigues (imported from Feeel)",
+                "Eduardo Celino (imported from Feeel)",
+                "Rodolfo Candido (imported from Feeel)",
+                "gbpu (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 2047,
+            "name": "Allenamento al sacco",
+            "aliases": [],
+            "uuid": "c89ef068-2ece-401b-8666-6b23d5d99190",
+            "exercise_base_id": 1092,
+            "description": "Allenamento al sacco migliora la definizione muscolare di: deltoidi; deltoidi posteriori; tricipiti; bicipiti.",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 15,
+                "name": "Cardio"
+            },
+            "muscles": [
+                {
+                    "id": 2,
+                    "name": "Anterior deltoid",
+                    "name_en": "Shoulders",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-2.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-2.svg"
+                },
+                {
+                    "id": 4,
+                    "name": "Pectoralis major",
+                    "name_en": "Chest",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-4.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-4.svg"
+                },
+                {
+                    "id": 9,
+                    "name": "Trapezius",
+                    "name_en": "",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-9.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-9.svg"
+                }
+            ],
+            "muscles_secondary": [
+                {
+                    "id": 1,
+                    "name": "Biceps brachii",
+                    "name_en": "Biceps",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-1.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-1.svg"
+                },
+                {
+                    "id": 11,
+                    "name": "Biceps femoris",
+                    "name_en": "Hamstrings",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-11.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-11.svg"
+                },
+                {
+                    "id": 7,
+                    "name": "Gastrocnemius",
+                    "name_en": "Calves",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-7.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-7.svg"
+                },
+                {
+                    "id": 12,
+                    "name": "Latissimus dorsi",
+                    "name_en": "Lats",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-12.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-12.svg"
+                },
+                {
+                    "id": 14,
+                    "name": "Obliquus externus abdominis",
+                    "name_en": "",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-14.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-14.svg"
+                },
+                {
+                    "id": 6,
+                    "name": "Rectus abdominis",
+                    "name_en": "Abs",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-6.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-6.svg"
+                }
+            ],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 13,
+                "short_name": "it",
+                "full_name": "Italian"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "clafal",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": [
+                "clafal"
+            ]
+        },
+        {
+            "id": 1889,
+            "name": "Alongamento de pescoço",
+            "aliases": [],
+            "uuid": "4246b09d-8b5e-411f-a152-5a4345a450fe",
+            "exercise_base_id": 1010,
+            "description": "<p>Posição inicial:</p><p>Sente-se ereto em uma cadeira ou em um travesseiro firme.</p><p>Passos:</p><ol><li>Expire e incline a cabeça para frente, queixo no peito, colocando as mãos atrás da cabeça.</li><li>Use as mãos para puxar a cabeça levemente para baixo. Segure por 5 segundos.</li><li>Puxe os ombros para trás e para baixo usando os músculos das costas. Isso deve aumentar o alongamento do pescoço. Segure por 5 segundos.</li><li>Agora empurre suavemente a cabeça para cima, enquanto também a puxa para baixo com as mãos. Equilibre as duas forças para que sua cabeça não se mova. Segure por pelo menos 5 segundos.</li><li>Leve os dedos à testa e use-os para mover suavemente a cabeça de volta à posição original.</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 12,
+                "name": "Back"
+            },
+            "muscles": [],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 7,
+                "short_name": "pt",
+                "full_name": "Português"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "gbpu (imported from Feeel)",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": [
+                "flexagoon (imported from Feeel)",
+                "mondstern (imported from Feeel)",
+                "Vinicius Rodrigues (imported from Feeel)",
+                "Eduardo Celino (imported from Feeel)",
+                "Rodolfo Candido (imported from Feeel)",
+                "gbpu (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1876,
+            "name": "Alongamento de pescoço para direita",
+            "aliases": [],
+            "uuid": "a7cb6f56-6285-421f-a9f0-e138c3560bc3",
+            "exercise_base_id": 1009,
+            "description": "<p>Posição inicial:</p><p>Sente-se ou fique em pé com as costas retas.</p><p>Passos:</p><ol><li>Incline a cabeça para o lado e segure por 8 segundos para alongar a lateral do pescoço.</li><li>Com a mão mais próxima no topo da cabeça, puxe suavemente para alongar ainda mais. Segure por 8 segundos.</li><li>Vire o queixo para o ombro. Segure por 8 segundos.</li><li>Solte e retorne à posição inicial.</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 13,
+                "name": "Shoulders"
+            },
+            "muscles": [],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 7,
+                "short_name": "pt",
+                "full_name": "Português"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "gbpu (imported from Feeel)",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1864,
+                1876
+            ],
+            "author_history": [
+                "flexagoon (imported from Feeel)",
+                "mondstern (imported from Feeel)",
+                "Vinicius Rodrigues (imported from Feeel)",
+                "Eduardo Celino (imported from Feeel)",
+                "Rodolfo Candido (imported from Feeel)",
+                "gbpu (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1864,
+            "name": "Alongamento de pescoço para esquerda",
+            "aliases": [],
+            "uuid": "2c26616f-38bb-4cb4-a730-81017c374c50",
+            "exercise_base_id": 1008,
+            "description": "<p>Posição inicial:</p><p>Sente-se ou fique em pé com as costas retas.</p><p>Passos:</p><ol><li>Incline a cabeça para o lado e segure por 8 segundos para alongar a lateral do pescoço.</li><li>Com a mão mais próxima no topo da cabeça, puxe suavemente para alongar ainda mais. Segure por 8 segundos.</li><li>Vire o queixo para o ombro. Segure por 8 segundos.</li><li>Solte e retorne à posição inicial.</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 13,
+                "name": "Shoulders"
+            },
+            "muscles": [],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 7,
+                "short_name": "pt",
+                "full_name": "Português"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "gbpu (imported from Feeel)",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [
+                1864,
+                1876
+            ],
+            "author_history": [
+                "flexagoon (imported from Feeel)",
+                "mondstern (imported from Feeel)",
+                "Vinicius Rodrigues (imported from Feeel)",
+                "Eduardo Celino (imported from Feeel)",
+                "Rodolfo Candido (imported from Feeel)",
+                "gbpu (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1901,
+            "name": "Alongamento frontal do pescoço",
+            "aliases": [],
+            "uuid": "5c12b80b-ecdb-4170-ab59-22151346af83",
+            "exercise_base_id": 1011,
+            "description": "<p>Posição inicial:</p><p>Sente-se ou fique em pé com as costas retas.</p><p>Passos:</p><ol><li>Abra bem a boca.</li><li>Incline lentamente a cabeça para trás com a boca aberta. Se sentir necessidade de apoio, junte as mãos atrás da cabeça.</li><li>Feche e abra a boca muito lentamente.</li><li>Ao final, retorne lentamente à posição inicial e feche a boca.</li></ol>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 12,
+                "name": "Back"
+            },
+            "muscles": [],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 7,
+                "short_name": "pt",
+                "full_name": "Português"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "gbpu (imported from Feeel)",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": [
+                "flexagoon (imported from Feeel)",
+                "mondstern (imported from Feeel)",
+                "Vinicius Rodrigues (imported from Feeel)",
+                "Eduardo Celino (imported from Feeel)",
+                "Rodolfo Candido (imported from Feeel)",
+                "gbpu (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 1720,
+            "name": "Alpinista",
+            "aliases": [],
+            "uuid": "910999c6-8382-4700-aeda-bf433398327e",
+            "exercise_base_id": 996,
+            "description": "<p>Posizione di partenza:</p><p>Iniziare in posizione verticale push-up, o la tavola alta.Le mani dovrebbero essere direttamente sotto le spalle.Tieni la testa in linea con la schiena, rivolta verso il pavimento.I piedi dovrebbero essere a circa la larghezza dell'anca.</p><p>Scalinata:</p><ol><li>Sposta un ginocchio verso il centro del corpo, verso i gomiti, mantenendo l'altra gamba estesa.</li><li>In un rapido movimento di salto, raddrizza la gamba piegata e tira l'altro ginocchio verso il tuo corpo.</li><li>Continua a ripetere il passaggio 2, alternando le gambe.</li></ol><p>Nota:</p><p>Durante l'esercizio la schiena dovrebbe rimanere il più dritta possibile – evitare una gobba o una schiena cascante.</p>",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 11,
+                "name": "Chest"
+            },
+            "muscles": [],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 13,
+                "short_name": "it",
+                "full_name": "Italian"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "albanobattistella (imported from Feeel)",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": [
+                "mondstern (imported from Feeel)",
+                "albanobattistella (imported from Feeel)",
+                "Marco Galli (imported from Feeel)",
+                "J. Lavoie (imported from Feeel)",
+                "Gianluca Vespignani (imported from Feeel)"
+            ]
+        },
+        {
+            "id": 2063,
+            "name": "Alternate back lunges",
+            "aliases": [],
+            "uuid": "b6771fbc-f99a-477a-be36-52b97dc9a952",
+            "exercise_base_id": 1102,
+            "description": "The posterior muscles of the buttocks, hamstrings, soleus and gastrocnemius are trained more",
+            "created": "2023-08-06T10:17:17.349574+02:00",
+            "category": {
+                "id": 9,
+                "name": "Legs"
+            },
+            "muscles": [
+                {
+                    "id": 8,
+                    "name": "Gluteus maximus",
+                    "name_en": "Glutes",
+                    "is_front": false,
+                    "image_url_main": "/static/images/muscles/main/muscle-8.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-8.svg"
+                },
+                {
+                    "id": 10,
+                    "name": "Quadriceps femoris",
+                    "name_en": "Quads",
+                    "is_front": true,
+                    "image_url_main": "/static/images/muscles/main/muscle-10.svg",
+                    "image_url_secondary": "/static/images/muscles/secondary/muscle-10.svg"
+                }
+            ],
+            "muscles_secondary": [],
+            "equipment": [
+                {
+                    "id": 7,
+                    "name": "none (bodyweight exercise)"
+                }
+            ],
+            "language": {
+                "id": 2,
+                "short_name": "en",
+                "full_name": "English"
+            },
+            "license": {
+                "id": 2,
+                "full_name": "Creative Commons Attribution Share Alike 4",
+                "short_name": "CC-BY-SA 4",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+            },
+            "license_author": "clafal",
+            "images": [],
+            "videos": [],
+            "comments": [],
+            "variations": [],
+            "author_history": [
+                "clafal"
+            ]
+        }
+    ]
+}
